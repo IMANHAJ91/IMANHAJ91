@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Iman Haj Obeid
 - 👀 I’m interested in Web Developing
 - 🌱 I’m currently learning React js
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me www.linkedin.com/in/iman-haj-obeid-91a18a1bb/
 
 <!---
